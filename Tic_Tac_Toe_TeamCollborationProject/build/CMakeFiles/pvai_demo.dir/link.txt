@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/pvai_demo.dir/pvai_demo.cpp.o CMakeFiles/pvai_demo.dir/PvCPU.cpp.o -o pvai_demo 

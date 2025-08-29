@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/tictactoe.dir/main.cpp.o CMakeFiles/tictactoe.dir/PvCPU.cpp.o -o tictactoe 
